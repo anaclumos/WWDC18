@@ -1,7 +1,7 @@
 # π (Apple Pi)
 Visual Playground to experience and learn several mathematical methods for calculating Pi.
 >
-Accepted to Apple WWDC 2018 Student Scholarship Program.
+Accepted to Apple WWDC18 Student Scholarship Program.
 >
 ![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png)
 >
