@@ -21,7 +21,6 @@ import PlaygroundSupport
  [Next](@next)
  */
 /*
- Added on 20 April 2018
- This Playground was accepted at Apple WWDC18 Student Scholarship Program.
- The Creator of this playground is Sunghyun Cho.
+ Developed by Sunghyun Cho from 29 March 2018 to 1 April 2018
+ This Playground was accepted to Apple WWDC18 Student Scholarship Program.
  */

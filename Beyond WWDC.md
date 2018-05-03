@@ -1,7 +1,5 @@
 # Beyond WWDC
 ## In what ways have you considered sharing your coding knowledge and enthusiasm for computer science with others?
-
-
 >
 I believe in the power of technology. Just as Gutenberg’s printer entirely changed the way we perceive information, the Internet has the same impact on us. Nowadays, everyone can learn new knowledge at their fingertips. However, students in the third world do not live in an environment where they can access the internet and cannot benefit from this revolution. If they can do so, it can change their society as a whole. They may not struggle with hunger, spend years working in a coal mine, or hand down poverty from generation to generation. 
 >
@@ -11,4 +9,6 @@ I started a project to realize my thoughts. To solve the first problem, I decide
 >
 The next step I will take is providing my computer knowledge to the students.  I already took the AP Computer Science course and the exam and got a perfect score. Also, during the school programming class, I had plenty of experience tutoring my friends and younger students. Feeling competent to teach the basics of computer, I volunteered to lecture international students in my STEM organization called "Namseoul University Global Education Institute" where I eventually taught how to utilize computer programs. Furthermore, if my project moves on successfully, I will spend my next vacation at the computer library in Cambodia, teaching students about the basics of computer science.
 >
-But to make a real difference, I should figure out how to achieve the last goal, to provide deep knowledge from sophisticated hardware design to modern software engineering. This is the most significant reason why I should attend WWDC. By exchanging thoughts with the world's leading technicians, I would be able to deepen my knowledge. Furthermore, being with those gifted students who receive this scholarship will elucidate the importance and responsibility of acting intellectuals. I would appeal fellow students to join me in ways they can. I would do that because that’s just the right thing to do. After all, making the world a better place—I believe that’s what technology is about.  
+But to make a real difference, I should figure out how to achieve the last goal, to provide deep knowledge from sophisticated hardware design to modern software engineering. This is the most significant reason why I should attend WWDC. By exchanging thoughts with the world's leading technicians, I would be able to deepen my knowledge. Furthermore, being with those gifted students who receive this scholarship will elucidate the importance and responsibility of acting intellectuals. I would appeal fellow students to join me in ways they can. I would do that because that’s just the right thing to do. After all, making the world a better place—I believe that’s what technology is about.
+>
+#### Written by Sunghyun Cho on 31 March 2018

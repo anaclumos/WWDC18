@@ -1,7 +1,7 @@
 # π (Apple Pi)
 Visual Playground to experience and learn several mathematical methods for calculating Pi.
 >
-Accepted as Apple WWDC 2018 Student Scholarship Program.
+Accepted to Apple WWDC 2018 Student Scholarship Program.
 >
 ![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png)
 >
@@ -31,3 +31,5 @@ Most of the students prioritize developing the playground over the essays. Howev
 As I noted, I tried to annotate all the details and reasons behind. Within that process, I kept all the information organized. I made a **guided path** for judges to read and follow simply. I explained how you could intuitively change the variables for the calculations. They could merely follow their eyesights and get all the experiences.
 >
 Also, I tried to utilize useful markup grammars to emphasize, exemplify, and note specific details. I strongly recommend you to read through the markup reference by Apple.
+>
+#### Written by Sunghyun Cho on 31 March 2018
