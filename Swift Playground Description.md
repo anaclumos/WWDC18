@@ -9,4 +9,5 @@ There are no fancy technologies in this playground. Only UIKit and PlaygroundSup
 >
 Since this is my first project done in Swift, I had to learn Swift syntax in only a few days. I think the most important thing is not "how good you are right now," but "how you will be able to improve upon yourself" in the future. Please try to see my potential and the scientific insight in this playground. Thank you.
 >
-#### Written by Sunghyun Cho on 31 March 2018
+
+    Written by Sunghyun Cho on 31 March 2018
