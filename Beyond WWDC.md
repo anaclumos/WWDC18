@@ -12,4 +12,4 @@ The next step I will take is providing my computer knowledge to the students.  I
 But to make a real difference, I should figure out how to achieve the last goal, to provide deep knowledge from sophisticated hardware design to modern software engineering. This is the most significant reason why I should attend WWDC. By exchanging thoughts with the world's leading technicians, I would be able to deepen my knowledge. Furthermore, being with those gifted students who receive this scholarship will elucidate the importance and responsibility of acting intellectuals. I would appeal fellow students to join me in ways they can. I would do that because that’s just the right thing to do. After all, making the world a better place—I believe that’s what technology is about.
 >
 
-    Written by Sunghyun Cho on 31 March 2018
+    Written by Sunghyun Cho on March 31st, 2018.

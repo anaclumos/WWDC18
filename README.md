@@ -33,4 +33,4 @@ As I noted, I tried to annotate all the details and reasons behind. Within that 
 Also, I tried to utilize useful markup grammars to emphasize, exemplify, and note specific details. I strongly recommend you to read through the markup reference by Apple.
 >
 
-    Written by Sunghyun Cho on 21 April 2018
+    Written by Sunghyun Cho on April 21st, 2018.
