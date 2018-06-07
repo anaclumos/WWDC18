@@ -1,4 +1,4 @@
-# π (Apple Pi)
+# π
 Visual Playground to experience and learn several mathematical methods for calculating Pi.
 >
 Accepted to Apple WWDC18 Student Scholarship Program.
