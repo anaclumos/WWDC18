@@ -2,17 +2,17 @@
 
 원주율을 구하는 여러 가지 수학적 방법을 경험하고 배울 수 있도록 도와주는 시각적 Swift Playground.
 
-Apple WWDC18 Student Scholarship Program에 합격.
+Apple WWDC18 학생 장학 프로그램에 선발됐습니다.
 
 더 많은 Preview 이미지를 보고 싶으시다면, [Images.md](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Images.md)를 확인해주세요.
 
 ![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png)
 
-## 내가 합격했다고 생각하는 이유
+## 내가 선발됐다고 생각하는 이유
 
 ##### 이하의 내용은 개인적인 의견이며, Apple의 의견이 아님을 밝힙니다.
 
-물론 처음 뽑힌 입장으로 이런 것을 스스로 판단할 자격은 절대 되지 않지만, 최초의 한국인 장학생으로 추후에 많은 학생들에게 조금이라도 도움이 되길 바라며 감히 스스로 평가해본다.
+물론 처음 뽑힌 입장으로 이런 것을 스스로 판단할 자격은 절대 되지 않지만, 최초의 한국인 장학생으로서 추후에 많은 학생들에게 조금이라도 도움이 되길 바라며 감히 스스로 평가해본다.
 
 처음에는 게임을 만드려고 했다. 3분이라는 제한된 심사 시간 내에 심사관들을 매료시키기 알맞을 것이라 생각했기 때문이다. 그래서 SpriteKit부터 배우기 시작했는데, 며칠 뒤 "Apple이 재능이 있는 학생들"을 찾는다는 것을 알게 되었다. 모두가 알다시피 누구나 며칠 내에 조잡하고 세련되지 못한 게임을 만들어낼 수 있다. 이거는 Apple이 원하는 것이 아니다. Apple은 인터넷에서 코드를 복붙하는 사람을 원하는 것이 아니라 통찰력 있고, 명석하며, 창의성 있는 STEM 학생들을 원한다. 그래서 나는 첫 번째 Playground를 폐기했고, 이 Playground를 만들게 되었다. 마감 기한을 나흘 앞둔 때였다.
 
