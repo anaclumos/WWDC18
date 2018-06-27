@@ -1,15 +1,15 @@
 # Beyond WWDC
 ## In what ways have you considered sharing your coding knowledge and enthusiasm for computer science with others?
->
+
 I believe in the power of technology. Just as Gutenberg’s printer entirely changed the way we perceive information, the Internet has the same impact on us. Nowadays, everyone can learn new knowledge at their fingertips. However, students in the third world do not live in an environment where they can access the internet and cannot benefit from this revolution. If they can do so, it can change their society as a whole. They may not struggle with hunger, spend years working in a coal mine, or hand down poverty from generation to generation. 
->
+
 I thought of what I could do. First, students in the third world need freely accessible computers. Then, they need teachers to teach them the basics of computer science. Finally, they need mentors to instruct them how to utilize the full potential of these computers. I couldn't solve these problems by myself, but as a united group, it can be done.  What I can do as the initiator of this project is to be the core of the group.
->
+
 I started a project to realize my thoughts. To solve the first problem, I decided to raise a fund. I detailed a plan to make an iPhone case and transportation card with artwork for this project. By raising a fund, I will be able to get the computers for the students in the third world.  I also contacted the embassies of several countries to get support for my project. The country that came most progressively is Cambodia; they showed strong willingness to support me in constructing a computer library that everyone can use freely. I am currently designing the artwork with a professional designer.
->
+
 The next step I will take is providing my computer knowledge to the students.  I already took the AP Computer Science course and the exam and got a perfect score. Also, during the school programming class, I had plenty of experience tutoring my friends and younger students. Feeling competent to teach the basics of computer, I volunteered to lecture international students in my STEM organization called "Namseoul University Global Education Institute" where I eventually taught how to utilize computer programs. Furthermore, if my project moves on successfully, I will spend my next vacation at the computer library in Cambodia, teaching students about the basics of computer science.
->
+
 But to make a real difference, I should figure out how to achieve the last goal, to provide deep knowledge from sophisticated hardware design to modern software engineering. This is the most significant reason why I should attend WWDC. By exchanging thoughts with the world's leading technicians, I would be able to deepen my knowledge. Furthermore, being with those gifted students who receive this scholarship will elucidate the importance and responsibility of acting intellectuals. I would appeal fellow students to join me in ways they can. I would do that because that’s just the right thing to do. After all, making the world a better place—I believe that’s what technology is about.
->
+
 
     Written by Sunghyun Cho on March 31st, 2018.
