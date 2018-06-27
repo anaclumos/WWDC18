@@ -12,7 +12,9 @@ For more preview images, please check [Images.md](https://github.com/anaclumos/W
 
 ## Why I think I got accepted
 
-At first, I tried to create a game. I thought it would be perfect to fascinate judges in 3 minutes. So I started with studying SpriteKit, but in few days I acknowledged that they are seeking for "talented students." You know, everyone can make a coarse, unrefined game within few days. That's not what they want. They want to see insightful, intelligent, original STEM students, not just a developer who copies and pastes codes. So I abandoned the first playground that I made and started on this playground, only four days ahead of the submission.
+#### Every information under is purely personal opinion.
+
+At first, I tried to create a game. I thought it would be perfect to fascinate judges in 3 minutes. So I started with studying SpriteKit, but in few days I acknowledged that they are seeking for "talented students." You know, everyone can make a coarse, unrefined game within few days. That's not what they want. They want to see insightful, intelligent, original students, not just a developer who copies and pastes codes. So I abandoned the first playground that I made and started on this playground, only four days ahead of the submission.
 
 Remember, using brand-new Kits and concentrating on ostensible decoration is meaningless. Apple can easily find thousands of those developers around the world. What they seek for, are not those commonplace developers. They want STEM Students with Creativity. Only with brand new Kits with no creativity inside, Apple would not be impressed.
 
@@ -20,8 +22,8 @@ Rather than that, concentrate on the content. Make something original. Apple alr
 
 And regarding technical accomplishment, concentrating on the basics operations and perfecting them would seem more "technically accomplished" than making an unfinished, complicated - but not sophisticated - playground.
 
-### Scientific Depth
-I concentrated on mathematical depth. It makes a visually interactive scene for easily understanding several numerical methods for pi calculation. Also, I tried to annotate all the mathematical properties and details of each technique. Therefore, compared to other playgrounds, the Apple judges must have found this playground more well-founded, and STEM-ish.
+### Depth
+I concentrated on mathematical depth. It makes a visually interactive scene for easily understanding several numerical methods for pi calculation. Also, I tried to annotate all the mathematical properties and details of each technique. Therefore, compared to other playgrounds, the Apple judges must have found this playground more well-founded. Other accepted students also concentrated on various fields: music, art, science, environments...
 
 ### Originality
 For someone who already took AP Computer Science class, these calculations may seem trite, since almost every student attempts implementing Monte Carlo Method for pi calculation in Java. However, I improved upon it. First, I designed my mathematical indicator to easily compare long decimals using log scales, called the Disco Level. Also, I developed my graphing tool that can both display scatterplots for Monte Carlo Method and charts for accurate comparison. These are done solely by myself, without any help.
