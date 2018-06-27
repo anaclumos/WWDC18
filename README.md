@@ -3,7 +3,7 @@ Visual Playground to experience and learn several mathematical methods for calcu
 
 Accepted to Apple WWDC18 Student Scholarship Program.
 
-For more preview images, please check ![Images.md](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Images.md)
+For more preview images, please check [Images.md](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Images.md)
 
 ![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png)
 
