@@ -1,4 +1,7 @@
 # π
+
+### [이 문서를 한글로 읽기](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/README%20in%20Korean.md)
+
 Visual Playground to experience and learn several mathematical methods for calculating Pi.
 
 Accepted to Apple WWDC18 Student Scholarship Program.
