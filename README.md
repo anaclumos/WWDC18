@@ -25,6 +25,9 @@ And regarding technical accomplishment, concentrating on the basics operations a
 ### Depth
 I concentrated on mathematical depth. It makes a visually interactive scene for easily understanding several numerical methods for pi calculation. Also, I tried to annotate all the mathematical properties and details of each technique. Therefore, compared to other playgrounds, the Apple judges must have found this playground more well-founded. Other accepted students also concentrated on various fields: music, art, science, environments...
 
+### Clear topic and unity
+When I was preparing the submission, I've downloaded and analyzed almost every accepted playground on GitHub. Most of them had clear topic and message. 3 minutes is not long; you cannot talk about various stuffs. Concentrate on one clear topic, and give a unified and clear experience.
+
 ### Originality
 For someone who already took AP Computer Science class, these calculations may seem trite, since almost every student attempts implementing Monte Carlo Method for pi calculation in Java. However, I improved upon it. First, I designed my mathematical indicator to easily compare long decimals using log scales, called the Disco Level. Also, I developed my graphing tool that can both display scatterplots for Monte Carlo Method and charts for accurate comparison. These are done solely by myself, without any help.
 
