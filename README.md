@@ -4,13 +4,11 @@
 
 Visual Playground to experience and learn several mathematical methods for calculating Pi.
 
-![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png = 400 * 300)
+For preview images, please check [Images.md](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Images.md)
 
 Accepted to Apple WWDC18 Student Scholarship Program.
 
 ![Badge](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Badge.jpg)
-
-For more preview images, please check [Images.md](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Images.md)
 
 ## Why I think I got accepted
 
