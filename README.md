@@ -4,7 +4,7 @@
 
 Visual Playground to experience and learn several mathematical methods for calculating Pi.
 
-![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png)
+![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png = 400 * 300)
 
 Accepted to Apple WWDC18 Student Scholarship Program.
 

@@ -2,7 +2,7 @@
 
 원주율을 구하는 여러 가지 수학적 방법을 경험하고 배울 수 있도록 도와주는 시각적 Swift Playground.
 
-![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png)
+![Preview](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Preview.png = 400 * 300)
 
 Apple WWDC18 학생 장학 프로그램에 선발됐습니다.
 
