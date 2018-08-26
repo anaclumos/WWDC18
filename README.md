@@ -1,8 +1,10 @@
-# π
+<h1 align="center">π</h1>
+<h5 align="center">Visual Playground to experience and learn<br>several mathematical methods for calculating π.</h5>
+
+
+[<p align = "center">![GitHub developer](https://img.shields.io/badge/Developer-Sunghyun%20Cho-Red.svg)](https://github.com/anaclumos)
 
 ### [이 문서를 한글로 읽기](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/README%20in%20Korean.md)
-
-Visual Playground to experience and learn several mathematical methods for calculating Pi.
 
 For preview images, please check [Images.md](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Images.md)
 
