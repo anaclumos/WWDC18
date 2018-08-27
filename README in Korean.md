@@ -1,5 +1,5 @@
 <h1 align="center">π</h1>
-<h5 align="center">원주율을 구하는 여러 가지 수학적 방법을 경험하고 배울 수 있도록 도와주는 시각적 Swift Playground.</h5>
+<h5 align="center">원주율을 구하는 여러 가지 수학적 방법을<br>직접 경험하고 배울 수 있도록 도와주는<br>Swift Playground.</h5>
 
 [<p align = "center">![GitHub developer](https://img.shields.io/badge/Developer-Sunghyun%20Cho-Red.svg)](https://github.com/anaclumos)
 
