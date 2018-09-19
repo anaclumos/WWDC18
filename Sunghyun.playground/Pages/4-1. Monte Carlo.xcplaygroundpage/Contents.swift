@@ -12,7 +12,7 @@ let graph = Graph(width:600.0,height:600.0,padding:50.0,xAxisMin:-1.0,xAxisMax:1
  
  - Experiment:Let's make an `MonteCarlo` object to visually check the Monte Carlo Calculation Process on ***live view***!
  */
-var trial : Int = 100
+var trial : Int = 10000
 //Change the trial value, and check the results.
 //Note that more trials means longer calculation time.
 

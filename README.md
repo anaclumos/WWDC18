@@ -4,13 +4,13 @@
 
 [<p align = "center">![GitHub developer](https://img.shields.io/badge/Developer-Sunghyun%20Cho-Red.svg)](https://github.com/anaclumos)
 
-### [이 문서를 한글로 읽기](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/README%20in%20Korean.md)
+### [이 문서를 한글로 읽기](README in Korean.md)
 
-For preview images, please check [Images.md](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Images.md)
+For preview images, please check [Images.md](Images.md)
 
 Accepted to Apple WWDC18 Student Scholarship Program.
 
-![Badge](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Badge.jpg)
+![Badge](Badge.jpg)
 
 ## Why I think I got accepted
 

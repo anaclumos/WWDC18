@@ -22,5 +22,5 @@ import PlaygroundSupport
  */
 /*
  Developed by Sunghyun Cho from March 29th, 2018 to April 1st, 2018.
- This Playground was accepted to Apple WWDC18 Student Scholarship Program.
+ This Playground was accepted to Apple WWDC18 Student Scholarship Program 😎
  */

@@ -4,13 +4,13 @@
 
 [<p align = "center">![GitHub developer](https://img.shields.io/badge/Developer-Sunghyun%20Cho-Red.svg)](https://github.com/anaclumos)
 
-Preview 이미지를 보고 싶으시다면, [Images.md](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Images.md)를 확인해주세요.
+Preview 이미지를 보고 싶으시다면, [Images.md](Images.md)를 확인해주세요.
 
 Apple WWDC18 학생 장학 프로그램에 선발됐습니다.
 
 [네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000022478)
 
-![Badge](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/Badge.jpg)
+![Badge](Badge.jpg)
 
 ## 내가 선발됐다고 생각하는 이유
 
