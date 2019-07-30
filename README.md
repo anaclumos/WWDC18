@@ -4,7 +4,7 @@
 [<p align = "center">
 ![GitHub developer](https://img.shields.io/badge/Developer-Sunghyun%20Cho-yellow.svg?longCache=true&style=flat-square)](https://github.com/anaclumos)<br>[![HitCount](http://hits.dwyl.io/anaclumos/WWDC2018-Scholarship-Submission.svg)](http://hits.dwyl.io/anaclumos/WWDC2018-Scholarship-Submission) [![GitHub license](https://img.shields.io/github/license/anaclumos/WWDC2018-Scholarship-Submission.svg?longCache=true&style=flat-square)](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/LICENSE)
 
-### [이 문서를 한글로 읽기](README in Korean.md)
+### [이 문서를 한글로 읽기](README&#32;in&#32;Korean.md)
 
 For preview images, please check [Images.md](Images.md)
 
