@@ -1,14 +1,7 @@
-<h1 align="center">π</h1>
-<h5 align="center">원주율을 구하는 여러 가지 수학적 방법을<br>직접 경험하고 배울 수 있도록 도와주는<br>Swift Playground.</h5>
+# π
+##### 원주율을 구하는 여러 가지 수학적 방법을 직접 경험하고 배울 수 있도록 도와주는 Swift Playground.
 
-[<p align = "center">
-![GitHub developer](https://img.shields.io/badge/Developer-Sunghyun%20Cho-yellow.svg?longCache=true&style=flat-square)](https://github.com/anaclumos)<br>[![HitCount](http://hits.dwyl.io/anaclumos/WWDC2018-Scholarship-Submission.svg)](http://hits.dwyl.io/anaclumos/WWDC2018-Scholarship-Submission) [![GitHub license](https://img.shields.io/github/license/anaclumos/WWDC2018-Scholarship-Submission.svg?longCache=true&style=flat-square)](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/LICENSE)
-
-Preview 이미지를 보고 싶으시다면, [Images.md](Images.md)를 확인해주세요.
-
-Apple WWDC18 학생 장학 프로그램에 선발됐습니다.
-
-### [네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000022478)
+[![](https://img.shields.io/badge/check-Demo-orange?longCache=true&style=for-the-badge&logo=swift)](Demo.md) [![](https://img.shields.io/badge/license-mit-orange?longCache=true&style=for-the-badge)](LICENSE.md) [![](https://img.shields.io/badge/read_in-English-blue?longCache=true&style=for-the-badge)](README.md) [![](https://img.shields.io/badge/Read-Naver_News-brightgreen?longCache=true&style=for-the-badge)](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000022478)
 
 ![Badge](Badge.jpg)
 
@@ -48,3 +41,6 @@ Apple WWDC18 학생 장학 프로그램에 선발됐습니다.
 
 
     Written by Sunghyun Cho on June 27th, 2018.
+    
+#### 2019년 9월 추가
+많은 것들이 바뀌었습니다. 저는 더이상 위 글과 제 에세이에 동의하지 않습니다. 특히 메인 에세이 같은 경우에는 충분히 숙고하지 않은 표현과 생각들이 포함되어 있습니다. 하지만 이 프로젝트를 다른 학생들을 위한 참고 자료의 형태로 남겨놓기 위해 제가 지원한 당일 프로젝트의 모습을 그대로 보존하겠습니다.

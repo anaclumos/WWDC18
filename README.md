@@ -1,14 +1,7 @@
-<h1 align="center">π</h1>
-<h5 align="center">Visual Playground to experience and learn<br>several mathematical methods for calculating π.</h5>
+# π
+##### Visual Playground to experience and learn several mathematical methods for calculating π.
 
-[<p align = "center">
-![GitHub developer](https://img.shields.io/badge/Developer-Sunghyun%20Cho-yellow.svg?longCache=true&style=flat-square)](https://github.com/anaclumos)<br>[![HitCount](http://hits.dwyl.io/anaclumos/WWDC2018-Scholarship-Submission.svg)](http://hits.dwyl.io/anaclumos/WWDC2018-Scholarship-Submission) [![GitHub license](https://img.shields.io/github/license/anaclumos/WWDC2018-Scholarship-Submission.svg?longCache=true&style=flat-square)](https://github.com/anaclumos/WWDC2018-Scholarship-Submission/blob/master/LICENSE)
-
-### [이 문서를 한글로 읽기](README&#32;in&#32;Korean.md)
-
-For preview images, please check [Images.md](Images.md)
-
-Accepted to Apple WWDC18 Student Scholarship Program.
+[![](https://img.shields.io/badge/check-Demo-orange?longCache=true&style=for-the-badge&logo=swift)](Demo.md) [![](https://img.shields.io/badge/license-mit-orange?longCache=true&style=for-the-badge)](LICENSE.md) [![](https://img.shields.io/badge/read_in-한국어-blue?longCache=true&style=for-the-badge)](README&#32;in&#32;Korean.md) [![](https://img.shields.io/badge/Read-Naver_News-brightgreen?longCache=true&style=for-the-badge)](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000022478)
 
 ![Badge](Badge.jpg)
 
@@ -44,5 +37,7 @@ As I noted, I tried to annotate all the details and reasons behind. Within that 
 
 Also, I tried to utilize useful markup grammars to emphasize, exemplify, and note specific details. I strongly recommend you to read through the markup reference by Apple.
 
-
     Written by Sunghyun Cho on April 21st, 2018.
+
+#### Added on Sep 2019
+Things have changed a lot. I do not agree with the above writing and the main essay. Especially for the main essay, it contains some insensitive expressions and ideas that I should have thought more carefully. However, for the sake of making this a `reference material` for other applicants, I will keep its intact form from the day that I applied. 
