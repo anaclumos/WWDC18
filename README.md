@@ -40,4 +40,4 @@ Also, I tried to utilize useful markup grammars to emphasize, exemplify, and not
     Written by Sunghyun Cho on April 21st, 2018.
 
 #### Added on Sep 2019
-Things have changed a lot. I do not agree with the above writing and the main essay. Especially for the main essay, it contains some insensitive expressions and ideas that I should have thought more carefully. However, for the sake of making this a `reference material` for other applicants, I will keep its intact form from the day that I applied. 
+Things have changed a lot. *In some extent*, I do not agree with the above writing and the main essay. Especially for the main essay, it contains some insensitive expressions and ideas that I should have thought more carefully. However, for the sake of making this a `reference material` for other applicants, I will keep its intact form from the day that I applied. 
